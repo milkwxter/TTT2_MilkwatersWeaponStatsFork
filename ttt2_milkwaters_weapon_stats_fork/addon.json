@@ -1,0 +1,17 @@
+{
+  "title": "[TTT2] Weapon Statistics [FEATURE]",
+  "type": "effects",
+  "tags": [
+    "fun",
+    "realism"
+  ],
+  "ignore": [
+    "*.gitattributes",
+    "*.md",
+    "*.example",
+    "*.jpg",
+    "stylua.toml",
+    ".styluaignore",
+    ".git-blame-ignore-revs"
+  ]
+}
